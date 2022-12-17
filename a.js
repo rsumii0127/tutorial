@@ -1,3 +1,3 @@
-console.log('A');
-console.log('AA');
-console.log('feature-A ブランチで追加')
+console.log('B');
+console.log('BB');
+console.log('feature-B ブランチで追加')
